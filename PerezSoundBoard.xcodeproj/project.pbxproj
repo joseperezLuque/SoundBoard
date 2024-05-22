@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B92219BB2BF985E00043489A /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92219BA2BF985E00043489A /* SoundViewController.swift */; };
 		B96D45272BF983A000CDA363 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96D45262BF983A000CDA363 /* AppDelegate.swift */; };
 		B96D45292BF983A000CDA363 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96D45282BF983A000CDA363 /* SceneDelegate.swift */; };
 		B96D452B2BF983A000CDA363 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96D452A2BF983A000CDA363 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B92219BA2BF985E00043489A /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		B96D45232BF983A000CDA363 /* PerezSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PerezSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B96D45262BF983A000CDA363 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B96D45282BF983A000CDA363 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				B96D45282BF983A000CDA363 /* SceneDelegate.swift */,
 				B96D452A2BF983A000CDA363 /* ViewController.swift */,
 				B96D452C2BF983A000CDA363 /* Main.storyboard */,
+				B92219BA2BF985E00043489A /* SoundViewController.swift */,
 				B96D45322BF983A200CDA363 /* Assets.xcassets */,
 				B96D45342BF983A200CDA363 /* LaunchScreen.storyboard */,
 				B96D45372BF983A200CDA363 /* Info.plist */,
@@ -145,6 +148,7 @@
 				B96D45272BF983A000CDA363 /* AppDelegate.swift in Sources */,
 				B96D45292BF983A000CDA363 /* SceneDelegate.swift in Sources */,
 				B96D45312BF983A000CDA363 /* PerezSoundBoard.xcdatamodeld in Sources */,
+				B92219BB2BF985E00043489A /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
